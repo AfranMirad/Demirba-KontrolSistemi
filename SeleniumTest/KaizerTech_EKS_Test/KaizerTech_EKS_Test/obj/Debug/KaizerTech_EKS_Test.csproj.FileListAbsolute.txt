@@ -1,0 +1,10 @@
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\yazilimTest.exe.config
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\yazilimTest.exe
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\yazilimTest.pdb
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\WebDriver.dll
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\WebDriver.xml
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\KaizerTech_EKS_Test.csprojAssemblyReference.cache
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\KaizerTech_EKS_Test.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\KaizerTech_EKS_Test.csproj.CopyComplete
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.exe
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.pdb

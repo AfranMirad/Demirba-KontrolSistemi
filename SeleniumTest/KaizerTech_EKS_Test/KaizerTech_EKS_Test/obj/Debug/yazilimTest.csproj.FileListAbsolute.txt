@@ -1,0 +1,18 @@
+C:\Users\msait\Desktop\yazilimTest\yazilimTest\bin\Debug\yazilimTest.exe.config
+C:\Users\msait\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.csprojResolveAssemblyReference.cache
+C:\Users\msait\Desktop\yazilimTest\yazilimTest\bin\Debug\yazilimTest.exe
+C:\Users\msait\Desktop\yazilimTest\yazilimTest\bin\Debug\yazilimTest.pdb
+C:\Users\msait\Desktop\yazilimTest\yazilimTest\bin\Debug\WebDriver.dll
+C:\Users\msait\Desktop\yazilimTest\yazilimTest\bin\Debug\WebDriver.xml
+C:\Users\msait\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.exe
+C:\Users\msait\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.pdb
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\yazilimTest.exe.config
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\yazilimTest.exe
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\yazilimTest.pdb
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\WebDriver.dll
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\bin\Debug\WebDriver.xml
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.csprojAssemblyReference.cache
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.csproj.CopyComplete
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.exe
+C:\Users\Yusuf Dede\Desktop\yazilimTest\yazilimTest\obj\Debug\yazilimTest.pdb
