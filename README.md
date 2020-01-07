@@ -1,5 +1,5 @@
 # Demirba-KontrolSistemi
 
-Bu sistemde test aşamasına önem gösterilmiştir.
-
-Projede açıklar ve hatalar mevcut fakat mühendislik prensipleri göz önünde bulundurulmuştur.
+Bir şirketin bilgisayar parçaları kontrol sistemi için tasarlanmış bir projedir.
+Php ve Mysql ile geliştirilen bir projedir.
+Projede laptop gibi toplu alınan bilgisayarların ve parça kasaların verileri uygun bir şekilde ayarlanmış ve aynı tablolarda depolanmıştır.
